@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="ce6061c4-bb80-4122-884d-2e7a46f97ee1" name="Default Changelist" comment="">
+      <change afterPath="$USER_HOME$/git@github.com:Cpreston3/zoom-mock/sever.js" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$USER_HOME$/git@github.com:Cpreston3/zoom-mock" />
+  </component>
+  <component name="ProjectId" id="1jThqj8AVM9ENmrgmGwivVNftxm" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="dart.analysis.tool.window.visible" value="false" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ce6061c4-bb80-4122-884d-2e7a46f97ee1" name="Default Changelist" comment="" />
+      <created>1603834182159</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1603834182159</updated>
+      <workItem from="1603834183260" duration="1031000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="2410" y="412" width="300" height="207" key="Github.ShareDialog" timestamp="1603834454946">
+      <screen x="1920" y="0" width="1280" height="1024" />
+    </state>
+    <state x="2410" y="412" width="300" height="207" key="Github.ShareDialog/0.27.1920.1053/1920.0.1280.1024@1920.0.1280.1024" timestamp="1603834454946" />
+    <state x="2272" y="188" width="566" height="654" key="Github.UntrackedFilesDialog" timestamp="1603834495529">
+      <screen x="1920" y="0" width="1280" height="1024" />
+    </state>
+    <state x="2272" y="188" width="566" height="654" key="Github.UntrackedFilesDialog/0.27.1920.1053/1920.0.1280.1024@1920.0.1280.1024" timestamp="1603834495529" />
+  </component>
+</project>
