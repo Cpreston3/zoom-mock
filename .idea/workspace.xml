@@ -1,8 +1,34 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="ce6061c4-bb80-4122-884d-2e7a46f97ee1" name="Default Changelist" comment="">
+    <list default="true" id="ce6061c4-bb80-4122-884d-2e7a46f97ee1" name="Default Changelist" comment="added code to server.js// updated README.md">
+      <change afterPath="$USER_HOME$/git@github.com:Cpreston3/zoom-mock/views/room.ejs" afterDir="false" />
       <change beforePath="$USER_HOME$/git@github.com:Cpreston3/zoom-mock/.idea/workspace.xml" beforeDir="false" afterPath="$USER_HOME$/git@github.com:Cpreston3/zoom-mock/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$USER_HOME$/git@github.com:Cpreston3/zoom-mock/node_modules/accepts/package.json" beforeDir="false" afterPath="$USER_HOME$/git@github.com:Cpreston3/zoom-mock/node_modules/accepts/package.json" afterDir="false" />
+      <change beforePath="$USER_HOME$/git@github.com:Cpreston3/zoom-mock/node_modules/ms/package.json" beforeDir="false" afterPath="$USER_HOME$/git@github.com:Cpreston3/zoom-mock/node_modules/ms/package.json" afterDir="false" />
+      <change beforePath="$USER_HOME$/git@github.com:Cpreston3/zoom-mock/node_modules/soket.io/README.md" beforeDir="false" />
+      <change beforePath="$USER_HOME$/git@github.com:Cpreston3/zoom-mock/node_modules/soket.io/package.json" beforeDir="false" />
+      <change beforePath="$USER_HOME$/git@github.com:Cpreston3/zoom-mock/package-lock.json" beforeDir="false" />
+      <change beforePath="$USER_HOME$/git@github.com:Cpreston3/zoom-mock/package.json" beforeDir="false" />
+      <change beforePath="$USER_HOME$/git@github.com:Cpreston3/zoom-mock/server.js" beforeDir="false" afterPath="$USER_HOME$/git@github.com:Cpreston3/zoom-mock/server.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -31,6 +57,20 @@
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
+  <component name="RunManager" selected="Node.js.server.js">
+    <configuration name="room.ejs" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/zoom-mock/views/room.ejs" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
+    <configuration name="server.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$USER_HOME$/$PROJECT_DIR$/server.js" working-dir="$USER_HOME$/$PROJECT_DIR$">
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Node.js.server.js" />
+        <item itemvalue="JavaScript Debug.room.ejs" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -39,12 +79,58 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1603834182159</updated>
-      <workItem from="1603834183260" duration="1831000" />
+      <workItem from="1603834183260" duration="7944000" />
+      <workItem from="1603908607123" duration="9722000" />
     </task>
+    <task id="LOCAL-00001" summary="added a README file">
+      <created>1603836161744</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1603836161744</updated>
+    </task>
+    <task id="LOCAL-00002" summary="added a README file">
+      <created>1603836381189</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1603836381189</updated>
+    </task>
+    <task id="LOCAL-00003" summary="added a README file">
+      <created>1603836619935</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1603836619935</updated>
+    </task>
+    <task id="LOCAL-00004" summary="added code to server.js// updated README.md">
+      <created>1603839956795</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1603839956795</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="added a README file" />
+    <MESSAGE value="added code to server.js// updated README.md" />
+    <option name="LAST_COMMIT_MESSAGE" value="added code to server.js// updated README.md" />
   </component>
   <component name="WindowStateProjectService">
     <state x="2410" y="412" width="300" height="207" key="Github.ShareDialog" timestamp="1603834454946">
@@ -55,9 +141,29 @@
       <screen x="1920" y="0" width="1280" height="1024" />
     </state>
     <state x="2272" y="188" width="566" height="654" key="Github.UntrackedFilesDialog/0.27.1920.1053/1920.0.1280.1024@1920.0.1280.1024" timestamp="1603834495529" />
-    <state x="2343" y="426" width="433" height="179" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1603835697713">
+    <state width="1257" height="834" key="GridCell.Tab.0.bottom" timestamp="1603922102977">
       <screen x="1920" y="0" width="1280" height="1024" />
     </state>
-    <state x="2343" y="426" width="433" height="179" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.27.1920.1053/1920.0.1280.1024@1920.0.1280.1024" timestamp="1603835697713" />
+    <state width="1257" height="834" key="GridCell.Tab.0.bottom/0.27.1920.1053/1920.0.1280.1024@1920.0.1280.1024" timestamp="1603922102977" />
+    <state width="1257" height="834" key="GridCell.Tab.0.center" timestamp="1603922102977">
+      <screen x="1920" y="0" width="1280" height="1024" />
+    </state>
+    <state width="1257" height="834" key="GridCell.Tab.0.center/0.27.1920.1053/1920.0.1280.1024@1920.0.1280.1024" timestamp="1603922102977" />
+    <state width="1257" height="834" key="GridCell.Tab.0.left" timestamp="1603922102977">
+      <screen x="1920" y="0" width="1280" height="1024" />
+    </state>
+    <state width="1257" height="834" key="GridCell.Tab.0.left/0.27.1920.1053/1920.0.1280.1024@1920.0.1280.1024" timestamp="1603922102977" />
+    <state width="1257" height="834" key="GridCell.Tab.0.right" timestamp="1603922102977">
+      <screen x="1920" y="0" width="1280" height="1024" />
+    </state>
+    <state width="1257" height="834" key="GridCell.Tab.0.right/0.27.1920.1053/1920.0.1280.1024@1920.0.1280.1024" timestamp="1603922102977" />
+    <state x="2155" y="248" width="800" height="535" key="Vcs.Push.Dialog.v2" timestamp="1603836623447">
+      <screen x="1920" y="0" width="1280" height="1024" />
+    </state>
+    <state x="2155" y="248" width="800" height="535" key="Vcs.Push.Dialog.v2/0.27.1920.1053/1920.0.1280.1024@1920.0.1280.1024" timestamp="1603836623447" />
+    <state x="2343" y="426" width="433" height="179" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1603836598185">
+      <screen x="1920" y="0" width="1280" height="1024" />
+    </state>
+    <state x="2343" y="426" width="433" height="179" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.27.1920.1053/1920.0.1280.1024@1920.0.1280.1024" timestamp="1603836598185" />
   </component>
 </project>
